@@ -111,3 +111,12 @@ no text overlay, no watermark, no people's faces
 - 人の顔が写っている場合は再生成する
 - 記事内容と合わない場合はコンセプトパターンを変えて最大3回まで再試行する
 - APIキーは必ず環境変数から読み込む（コードに直接書かない）
+
+---
+
+## nanobananaによる画像生成（Claude Code内から使用）
+
+### noteアイキャッチ画像のプロンプト記法
+
+各記事につき1枚、以下の `[NANOBANANA PROMPT]` 形式で生成すること。
+サイズはnote推奨の横長バナー（16:9）。
