@@ -2,6 +2,8 @@
 __pycache__/
 *.pyc
 *.pyo
-output/images/*.png
-output/images/*.jpg
-output/images/*.webp
+# output/images/*.png  # 画像もコミット対象にするためコメントアウト
+# output/images/*.jpg
+# output/images/*.webp
+.DS_Store
+output/.DS_Store
