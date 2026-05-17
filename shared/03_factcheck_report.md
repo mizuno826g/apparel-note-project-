@@ -19,18 +19,33 @@
 | Alibaba：BtoBプラットフォーム、英語ベース | https://www.alibaba.com/ | ✅ 公式で確認 |
 | 1688：中国国内向け卸売サイト | https://www.1688.com/ | ✅ 公式で確認 |
 
+### 追加確認済み項目（再執筆版で追加）
+
+| 記載内容 | ソースURL | 確認結果 |
+|---------|----------|---------|
+| Printstar 085-CVT 卸価格 ホワイト ¥438/枚〜 | https://www.orgpalm.com/itemmap/category_Tshirts_muji/item_detail_00085-CVT | ✅ オレンジパームで確認 |
+| Printstar 085-CVT 卸価格 カラー ¥518/枚〜 | https://www.orgpalm.com/itemmap/category_Tshirts_muji/item_detail_00085-CVT | ✅ オレンジパームで確認 |
+| United Athle 5001-01 ホワイト ¥519/枚〜 | https://www.orgpalm.com/itemmap/category_Tshirts_muji/item_detail_UNA-5001-01 | ✅ オレンジパームで確認 |
+| United Athle 5001-01 カラー ¥585/枚〜 | https://www.orgpalm.com/itemmap/category_Tshirts_muji/item_detail_UNA-5001-01 | ✅ オレンジパームで確認 |
+| GILDAN T2000（6oz）¥579/枚〜 | https://www.orgpalm.com/brand/brand_detail_gildan/ | ✅ オレンジパームで確認 |
+| GILDAN 63000（4.5oz）¥328/枚〜 | https://www.orgpalm.com/brand/brand_detail_gildan/ | ✅ オレンジパームで確認 |
+| TMIX 定番T（Printstar 5.6oz）税込¥633〜 | https://tmix.jp/product_categories/1 | ✅ TMIX公式で確認 |
+| TMIX ドライT（glimmer 4.4oz）税込¥486〜 | https://tmix.jp/product_categories/1 | ✅ TMIX公式で確認 |
+| TMIX ハイグレードT（UA 5.6oz）税込¥728〜 | https://tmix.jp/product_categories/1 | ✅ TMIX公式で確認 |
+| SUZURI スタンダードT 原価¥2,080〜（2025年5月） | https://imano-okiniiri.com/suzuri-pricing-guide/ | ✅ 第三者解説サイトで確認（公式ヘルプは403） |
+
 ### 削除・修正した項目
 
 | 元の記載 | 理由 | 対応 |
 |---------|------|------|
 | プリントモール | 実在確認できず | 削除し実在サービスに変更 |
-| ボディ仕入れ値「200〜350円/枚」等 | 公式卸値は非公開・推測 | 削除。「各卸業者に確認」と案内 |
-| コスト実例表（30枚/50枚/100枚） | ソースなしの試算 | 削除。「公式で見積もりを」と案内 |
-| 中国OEM単価「$3〜$8」 | ソースなし・工場によって異なる | 削除 |
-| 利益率の計算例「80%」「37%」 | ソースなし・条件によって異なる | 削除。「公式の原価表で確認」と案内 |
+| ボディ仕入れ値「200〜350円/枚」等 | 推測値 | 削除→オレンジパームの実価格に置き換え |
+| コスト実例表（30枚/50枚/100枚の試算） | ソースなし | 削除。TMIX公式価格表に置き換え |
+| 中国OEM単価「$3〜$8」 | ソースなし | 削除 |
+| 利益率「80%」「37%」 | ソースなし | 削除→SUZURI原価から読者が計算できる形に |
 | 版代「5,000〜10,000円/色」 | ソースなし | 削除 |
-| 体験談の金額・枚数「45万円」「300枚」 | 架空の数字 | 削除。数字なしの体験談に修正 |
-| OEM最低ロット「50〜200枚」 | 工場によって異なり、ソースなし | 削除。「工場に直接確認」と案内 |
+| 体験談の「45万円」「300枚」 | 架空の数字 | 削除。数字なしの体験談に修正 |
+| OEM最低ロット「50〜200枚」 | 工場によって異なりソースなし | 削除。「工場に直接確認」と案内 |
 
 ---
 
