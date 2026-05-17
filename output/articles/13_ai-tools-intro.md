@@ -57,10 +57,8 @@
 
 Midjourneyのプロンプト例はこんな感じ：
 
-```
-urban streetwear graphic tee design, bold Japanese kanji, distressed texture,
-oversized vintage feel, black and white, grunge punk style, high contrast --ar 1:1
-```
+> urban streetwear graphic tee design, bold Japanese kanji, distressed texture,
+> oversized vintage feel, black and white, grunge punk style, high contrast --ar 1:1
 
 生成結果をそのままデザインに使うのではなく、「雰囲気の参考」として使うのがポイントです。著作権や商業利用の問題を避けるためにも、最終デザインは必ず人間のデザイナーが仕上げる形にしましょう。
 
@@ -72,21 +70,19 @@ oversized vintage feel, black and white, grunge punk style, high contrast --ar 1
 
 以下のプロンプトをそのまま使えます。[ ]内を自分の商品に合わせて書き換えてください。
 
-```
-あなたはストリートファッションブランドのコピーライターです。
-以下の情報をもとに、ECサイト掲載用の商品説明文を書いてください。
-
-【商品名】[例：グラフィックTシャツ "VOID"]
-【素材】[例：コットン100%、GSM 260g]
-【デザインのコンセプト】[例：都市の孤独と解放感をテーマにしたアートワーク]
-【ターゲット】[例：20代男性、ストリートファッション好き]
-【売りたいポイント】[例：着込むほど風合いが増すヴィンテージ加工]
-
-条件：
-- 150〜200文字で簡潔に
-- カタログ的な羅列ではなく、世界観が伝わる語り口で
-- 専門用語を使う場合は同じ文章内で補足する
-```
+> あなたはストリートファッションブランドのコピーライターです。
+> 以下の情報をもとに、ECサイト掲載用の商品説明文を書いてください。
+>
+> 【商品名】[例：グラフィックTシャツ "VOID"]
+> 【素材】[例：コットン100%、GSM 260g]
+> 【デザインのコンセプト】[例：都市の孤独と解放感をテーマにしたアートワーク]
+> 【ターゲット】[例：20代男性、ストリートファッション好き]
+> 【売りたいポイント】[例：着込むほど風合いが増すヴィンテージ加工]
+>
+> 条件：
+> - 150〜200文字で簡潔に
+> - カタログ的な羅列ではなく、世界観が伝わる語り口で
+> - 専門用語を使う場合は同じ文章内で補足する
 
 これを使うだけで、毎回0から悩む必要がなくなります。
 
@@ -94,18 +90,16 @@ oversized vintage feel, black and white, grunge punk style, high contrast --ar 1
 
 キャプションを1本ずつ「考える」のをやめましょう。代わりに**テンプレートをAIに用意させて、そこに当てはめる**スタイルにすると一気に楽になります。
 
-```
-以下のInstagram投稿用キャプションを3パターン書いてください。
-
-投稿内容：[例：新作Tシャツの着用写真]
-ブランドのトンマナ：[例：ストリート、ミニマル、少し反骨的、20代男性向け]
-含めたいキーワード：[例：#streetwear #tokyo #ootd]
-文字数：各パターン100〜150文字
-
-パターンA：問いかけ形式
-パターンB：世界観重視の詩的な文体
-パターンC：共感を誘うリアルな語り口
-```
+> 以下のInstagram投稿用キャプションを3パターン書いてください。
+>
+> 投稿内容：[例：新作Tシャツの着用写真]
+> ブランドのトンマナ：[例：ストリート、ミニマル、少し反骨的、20代男性向け]
+> 含めたいキーワード：[例：#streetwear #tokyo #ootd]
+> 文字数：各パターン100〜150文字
+>
+> パターンA：問いかけ形式
+> パターンB：世界観重視の詩的な文体
+> パターンC：共感を誘うリアルな語り口
 
 3パターン出してもらって、一番しっくりくるものを選んで手直しするだけ。この方法にしてから、投稿頻度が週1→週3に上がりました。
 
@@ -113,16 +107,14 @@ oversized vintage feel, black and white, grunge punk style, high contrast --ar 1
 
 まず記事の「骨格」だけAIに作ってもらい、中身は自分で書くというスタイルが効率的です。
 
-```
-アパレル起業初心者向けのnote記事の構成案を作ってください。
-
-テーマ：[例：中国工場に初めて発注するときの流れ]
-読者：20代、ストリートブランドを立ち上げたばかり
-文字数目安：3,000字
-トーン：経験者が後輩に教えるフレンドリーな語り口
-
-H1タイトル案を3つ、各H2見出しと各セクションの要点（2〜3行）をセットで出力してください。
-```
+> アパレル起業初心者向けのnote記事の構成案を作ってください。
+>
+> テーマ：[例：中国工場に初めて発注するときの流れ]
+> 読者：20代、ストリートブランドを立ち上げたばかり
+> 文字数目安：3,000字
+> トーン：経験者が後輩に教えるフレンドリーな語り口
+>
+> H1タイトル案を3つ、各H2見出しと各セクションの要点（2〜3行）をセットで出力してください。
 
 構成が決まれば、あとは各セクションを自分の経験と言葉で肉付けするだけです。
 
@@ -146,43 +138,39 @@ H1タイトル案を3つ、各H2見出しと各セクションの要点（2〜3�
 
 初めて工場に問い合わせるとき、英語・中国語でどう書けばいいかわからずに躊躇する人が多いです。AIに丸投げしましょう。
 
-```
-以下の内容を英語（または中国語）の工場問い合わせメールに変換してください。
-
-【問い合わせ内容】
-・ブランド名：[例：XXX]
-・商品：Tシャツ、コットン100%、GSM 260g前後
-・希望ロット数：最初は30枚〜50枚程度からスタートしたい
-・確認したいこと：最小ロット数（MOQ）、サンプル製作の可否、納期の目安
-
-ビジネスメールとして丁寧な文体で。相手が中国の縫製工場（Alibabaで見つけた）を想定して。
-```
+> 以下の内容を英語（または中国語）の工場問い合わせメールに変換してください。
+>
+> 【問い合わせ内容】
+> ・ブランド名：[例：XXX]
+> ・商品：Tシャツ、コットン100%、GSM 260g前後
+> ・希望ロット数：最初は30枚〜50枚程度からスタートしたい
+> ・確認したいこと：最小ロット数（MOQ）、サンプル製作の可否、納期の目安
+>
+> ビジネスメールとして丁寧な文体で。相手が中国の縫製工場（Alibabaで見つけた）を想定して。
 
 生成されたメールがこちらのイメージです（英語版）：
 
-```
-Dear [Factory Name] Team,
-
-My name is [Your Name], and I am the founder of [Brand Name],
-a streetwear brand based in Japan.
-
-I am interested in producing custom graphic T-shirts (100% cotton, approx. 260 GSM)
-and would like to inquire about the following:
-
-1. What is your minimum order quantity (MOQ) per style/colorway?
-2. Is it possible to produce samples before placing a bulk order?
-3. What is the typical lead time for sample production and bulk orders?
-
-We are planning to start with an initial order of around 30–50 pieces
-and scale up as we grow.
-
-Thank you for your time, and I look forward to hearing from you.
-
-Best regards,
-[Your Name]
-[Brand Name]
-[Contact Information]
-```
+> Dear [Factory Name] Team,
+>
+> My name is [Your Name], and I am the founder of [Brand Name],
+> a streetwear brand based in Japan.
+>
+> I am interested in producing custom graphic T-shirts (100% cotton, approx. 260 GSM)
+> and would like to inquire about the following:
+>
+> 1. What is your minimum order quantity (MOQ) per style/colorway?
+> 2. Is it possible to produce samples before placing a bulk order?
+> 3. What is the typical lead time for sample production and bulk orders?
+>
+> We are planning to start with an initial order of around 30–50 pieces
+> and scale up as we grow.
+>
+> Thank you for your time, and I look forward to hearing from you.
+>
+> Best regards,
+> [Your Name]
+> [Brand Name]
+> [Contact Information]
 
 このまま使えます。名前とブランド名だけ変えてください。
 
@@ -232,31 +220,29 @@ SNS用の投稿画像を作るなら、Canva一つで完結することも多い
 
 ## まとめ
 
-```
-✅ アパレル起業×AIツール 活用チェックリスト
 
+**◆ ✅ アパレル起業×AIツール 活用チェックリスト**
 【デザイン】
 □ Midjourneyでブランドビジュアルの参考画像を生成した
 □ 生成画像をデザイナーへの参考資料として活用している
-
 【文章】
 □ 商品説明文のプロンプトテンプレートを用意した
 □ SNSキャプションを3パターン生成して選ぶ運用にした
 □ note/ブログ記事の構成をAIに出させてから自分で書いている
-
 【工場とのやり取り】
 □ DeepL＋ChatGPTの2段階翻訳チェックを習慣にした
 □ 工場問い合わせのメールテンプレートを用意した
-
 【画像加工】
 □ Remove.bgで商品写真の背景除去を試した
 □ Canva AIまたはLuminar Neoで写真補正を試した
-```
+
 
 AIツールは使いこなすまでに少し学習コストがかかりますが、一度慣れると**「なんでもっと早く使わなかったんだろう」**という気持ちになります。まず一つのツールを試してみることから始めてください。
 
 ---
 
-> 💡 **次の記事**
-> 「AIの使い方はわかった、でもそもそもブランドの世界観ってどうやって作るの？」という疑問、次の記事で解決します。
-> **#14「AIと一緒にブランドの世界観を作る」** では、コンセプト設計からキャッチコピーまで、AIとの壁打ちを通じてブランドの核心を固めるワークフローを公開します。
+
+**◆ 次の記事**
+「AIの使い方はわかった、でもそもそもブランドの世界観ってどうやって作るの？」という疑問、次の記事で解決します。
+**#14「AIと一緒にブランドの世界観を作る」** では、コンセプト設計からキャッチコピーまで、AIとの壁打ちを通じてブランドの核心を固めるワークフローを公開します。
+
